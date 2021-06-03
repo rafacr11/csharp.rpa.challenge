@@ -1,0 +1,12 @@
+19/05/2021 12:53:14 - [ INFO ] - Iniciando aplicação
+19/05/2021 12:53:15 - [ INFO ] - Quantidade de registros na planilha: 10
+19/05/2021 12:53:27 - [ INFO ] - John inserida com sucesso! 
+19/05/2021 12:53:27 - [ INFO ] - Jane inserida com sucesso! 
+19/05/2021 12:53:28 - [ INFO ] - Albert inserida com sucesso! 
+19/05/2021 12:53:28 - [ INFO ] - Michael inserida com sucesso! 
+19/05/2021 12:53:28 - [ INFO ] - Doug inserida com sucesso! 
+19/05/2021 12:53:29 - [ INFO ] - Jessie inserida com sucesso! 
+19/05/2021 12:53:29 - [ INFO ] - Stan inserida com sucesso! 
+19/05/2021 12:53:30 - [ INFO ] - Michelle inserida com sucesso! 
+19/05/2021 12:53:30 - [ INFO ] - Stacy inserida com sucesso! 
+19/05/2021 12:53:31 - [ ERROR ] - Erro ao inserir: Lara Erro: text cannot be null (Parameter 'text')

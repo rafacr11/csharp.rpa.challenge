@@ -1,0 +1,2 @@
+19/05/2021 15:28:29 - [ INFO ] - Iniciando aplicação
+19/05/2021 15:28:30 - [ INFO ] - Quantidade de registros na planilha: 10

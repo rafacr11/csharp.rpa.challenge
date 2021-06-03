@@ -7,7 +7,7 @@ using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace csharp.rpa.challenge.selenium
+namespace rpa.challenge.utils
 {
     public class IniFile
     {

@@ -1,0 +1,4 @@
+18/05/2021 14:48:35 - [ INFO ] - Iniciando aplicação
+18/05/2021 14:48:55 - [ INFO ] - Arquivos processados
+18/05/2021 14:48:55 - [ INFO ] - Execução terminada
+18/05/2021 14:48:55 - [ INFO ] - C:\Users\night\Desktop\RPA Challenge Csharp\rpa.challenge\rpa.challenge\bin\Debug\net5.0

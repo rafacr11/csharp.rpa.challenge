@@ -1,21 +1,20 @@
-﻿using NPOI.SS.UserModel;
-using NPOI.XSSF.UserModel;
-using OpenQA.Selenium;
-using OpenQA.Selenium.Chrome;
-using rpa.challenge.Model;
-using System;
-using System.Collections.Generic;
-using System.IO;
+﻿using System;
 using rpa.challenge.Controller;
+using rpa.challenge.utils;
 
 namespace rpa.challenge
 {
     class Program
     {
+        private static readonly Logging log = new(@"C:\Users\night\Desktop\RPA Challenge Csharp\rpa.challenge\logs", "log_" + DateTime.Now.ToString("yyyMMdd_HHmmss") + ".txt");
         static void Main(string[] args)
-        {              
-            RpaController controller = new RpaController();
+        {
+            log.Info("Iniciando aplicação");
+
+            RpaController controller = new RpaController(log);
             controller.StartRobot();
+
+            log.Info("Execução terminada");            
         }
     }
 }

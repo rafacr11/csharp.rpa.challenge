@@ -1,0 +1,11 @@
+19/05/2021 12:39:11 - [ INFO ] - Iniciando aplicação
+19/05/2021 12:39:12 - [ INFO ] - Quantidade de registros na planilha: 10
+19/05/2021 12:39:23 - [ INFO ] - John inserida com sucesso! 
+19/05/2021 12:39:23 - [ INFO ] - Jane inserida com sucesso! 
+19/05/2021 12:39:24 - [ INFO ] - Albert inserida com sucesso! 
+19/05/2021 12:39:24 - [ INFO ] - Michael inserida com sucesso! 
+19/05/2021 12:39:25 - [ INFO ] - Doug inserida com sucesso! 
+19/05/2021 12:39:25 - [ INFO ] - Jessie inserida com sucesso! 
+19/05/2021 12:39:26 - [ INFO ] - Stan inserida com sucesso! 
+19/05/2021 12:39:26 - [ INFO ] - Michelle inserida com sucesso! 
+19/05/2021 12:39:26 - [ INFO ] - Stacy inserida com sucesso! 

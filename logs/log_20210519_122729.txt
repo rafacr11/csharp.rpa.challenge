@@ -1,0 +1,4 @@
+19/05/2021 12:27:29 - [ INFO ] - Iniciando aplicação
+19/05/2021 12:27:30 - [ ERROR ] - Cannot get a numeric value from a text cell
+19/05/2021 12:27:30 - [ INFO ] - Não existem arquivos para serem processados
+19/05/2021 12:27:30 - [ INFO ] - Execução terminada

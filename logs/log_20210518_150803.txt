@@ -1,0 +1,21 @@
+18/05/2021 15:08:03 - [ INFO ] - Iniciando aplicação
+18/05/2021 15:08:12 - [ ERROR ] - no such element: Unable to locate element: {"method":"xpath","selector":"//label[text()='Addres']/following-sibling::input"}
+  (Session info: chrome=90.0.4430.212)rpa.challenge.Model.Pessoa
+18/05/2021 15:08:14 - [ ERROR ] - no such element: Unable to locate element: {"method":"xpath","selector":"//label[text()='Addres']/following-sibling::input"}
+  (Session info: chrome=90.0.4430.212)rpa.challenge.Model.Pessoa
+18/05/2021 15:08:15 - [ ERROR ] - no such element: Unable to locate element: {"method":"xpath","selector":"//label[text()='Addres']/following-sibling::input"}
+  (Session info: chrome=90.0.4430.212)rpa.challenge.Model.Pessoa
+18/05/2021 15:08:17 - [ ERROR ] - no such element: Unable to locate element: {"method":"xpath","selector":"//label[text()='Addres']/following-sibling::input"}
+  (Session info: chrome=90.0.4430.212)rpa.challenge.Model.Pessoa
+18/05/2021 15:08:18 - [ ERROR ] - no such element: Unable to locate element: {"method":"xpath","selector":"//label[text()='Addres']/following-sibling::input"}
+  (Session info: chrome=90.0.4430.212)rpa.challenge.Model.Pessoa
+18/05/2021 15:08:19 - [ ERROR ] - no such element: Unable to locate element: {"method":"xpath","selector":"//label[text()='Addres']/following-sibling::input"}
+  (Session info: chrome=90.0.4430.212)rpa.challenge.Model.Pessoa
+18/05/2021 15:08:20 - [ ERROR ] - no such element: Unable to locate element: {"method":"xpath","selector":"//label[text()='Addres']/following-sibling::input"}
+  (Session info: chrome=90.0.4430.212)rpa.challenge.Model.Pessoa
+18/05/2021 15:08:22 - [ ERROR ] - no such element: Unable to locate element: {"method":"xpath","selector":"//label[text()='Addres']/following-sibling::input"}
+  (Session info: chrome=90.0.4430.212)rpa.challenge.Model.Pessoa
+18/05/2021 15:08:23 - [ ERROR ] - no such element: Unable to locate element: {"method":"xpath","selector":"//label[text()='Addres']/following-sibling::input"}
+  (Session info: chrome=90.0.4430.212)rpa.challenge.Model.Pessoa
+18/05/2021 15:08:24 - [ ERROR ] - no such element: Unable to locate element: {"method":"xpath","selector":"//label[text()='Addres']/following-sibling::input"}
+  (Session info: chrome=90.0.4430.212)rpa.challenge.Model.Pessoa

@@ -1,0 +1,4 @@
+18/05/2021 10:42:44 - [ INFO ] - Starting application
+18/05/2021 10:43:16 - [ INFO ] - 
+18/05/2021 10:43:16 - [ INFO ] - Flow ended
+18/05/2021 10:43:16 - [ INFO ] - C:\Users\night\Desktop\RPA Challenge Csharp\rpa.challenge\rpa.challenge\bin\Debug\net5.0

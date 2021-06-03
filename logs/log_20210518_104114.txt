@@ -1,0 +1,1 @@
+18/05/2021 10:41:15 - [ INFO ] - Starting application

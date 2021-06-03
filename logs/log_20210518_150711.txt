@@ -1,0 +1,3 @@
+18/05/2021 15:07:11 - [ INFO ] - Iniciando aplicação
+18/05/2021 15:07:31 - [ INFO ] - Arquivos processados
+18/05/2021 15:07:31 - [ INFO ] - Execução terminada
